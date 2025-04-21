@@ -1,0 +1,56 @@
+Movie ID,Title,Genre,Year,Rating
+112,The Dark Knight,Sci-Fi,1990.0,7.3
+193,Iron Man,Drama,2001.0,6.2
+193,The Matrix,Animation,2023.0,eight
+129,Toy Story,,2006.0,6.0
+113,Joker,,2004.0,
+157,The Matrix,Adventure,2014.0,
+136,Toy Story,Adventure,2005.0,8.3
+109,The Matrix,Animation,1995.0,6.1
+148,Toy Story,Horror,2010.0,6.3
+148,Titanic,Animation,2000.0,6.1
+144,The Matrix,Adventure,2002.0,7.2
+128,Titanic,Horror,1993.0,7.8
+110,Avengers,Drama,2009.0,8.9
+139,The Dark Knight,Horror,1997.0,8.3
+190,Titanic,Action,,8.4
+174,The Dark Knight,Thriller,1993.0,5.0
+124,Toy Story,Sci-Fi,1998.0,7.4
+133,Inception,Sci-Fi,1997.0,6.8
+192,Inception,Action,2008.0,eight
+175,Interstellar,Action,2016.0,5.9
+154,Interstellar,Horror,2022.0,7.0
+129,Titanic,Adventure,1992.0,5.9
+148,Avengers,Comedy,2014.0,6.0
+134,Titanic,Action,2013.0,7.7
+128,Avengers,Thriller,2010.0,eight
+191,Avatar,Thriller,1996.0,5.9
+168,Titanic,Drama,2000.0,6.5
+121,The Matrix,Comedy,1998.0,8.6
+173,The Matrix,Thriller,2019.0,7.3
+134,Interstellar,Sci-Fi,1997.0,8.2
+197,Toy Story,Adventure,,7.6
+162,Avengers,Animation,2019.0,8.9
+176,The Dark Knight,Sci-Fi,2005.0,7.1
+154,Interstellar,Thriller,2016.0,8.6
+159,Joker,Animation,2015.0,8.2
+126,Avatar,Animation,2021.0,8.9
+104,Avengers,Drama,2010.0,8.3
+146,The Matrix,Action,2017.0,8.2
+122,Inception,Adventure,1993.0,9.0
+179,Inception,Animation,2022.0,6.3
+126,Interstellar,Drama,2011.0,8.0
+104,Inception,Animation,2010.0,
+116,Avatar,Adventure,2023.0,6.3
+111,Toy Story,Animation,1993.0,
+118,Avatar,Drama,2005.0,8.1
+196,Iron Man,Adventure,2004.0,7.5
+110,Toy Story,Sci-Fi,1994.0,
+127,Interstellar,Thriller,1991.0,
+156,Titanic,Adventure,2012.0,7.3
+153,Toy Story,Sci-Fi,2009.0,6.5
+154,Interstellar,Thriller,2016.0,8.6
+196,Iron Man,Adventure,2004.0,7.5
+118,Avatar,Drama,2005.0,8.1
+129,Titanic,Adventure,1992.0,5.9
+116,Avatar,Adventure,2023.0,6.3
